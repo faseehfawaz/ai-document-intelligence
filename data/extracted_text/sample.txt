@@ -1,0 +1,899 @@
+UNIVERSITY OF WOLLONGONG IN DUBAI
+FACULTY OF ENGINEERING AND INFORMATION SCIENCES
+UG DEGREE PLANNER
+HANDOUT VERSION
+WINTER 2023
+KEY CONTACTS - FACULTY OF ENGINEERING AND INFORMATION SCIENCES
+Dr. Mai ElBarachi Dr. Haile-Selassie Rajamani
+Director Computer Science and Information Systems Director Engineering
+Associate Professor Associate Professor
+Faculty of Engineering and Information Sciences Faculty of Engineering and Information Sciences
+P +97 14 278 1977 (Direct) P +971 4 278 1923 (Direct)
+E MaiElbarachi@uowdubai.ac.ae E HaileRajamani@uowdubai.ac.ae
+Dr. Stephen Wilkinson Dr. Soly Mathew Biju
+Director Research Discipline Leader (Computer Science)
+Associate Professor Associate Professor
+Faculty of Engineering and Information Sciences Faculty of Engineering and Information Sciences
+P +971 4 278 1920 (Direct) P +971 4 278 1933 (Direct)
+E Stephenwilkinson@uowdubai.ac.ae E SolyMathewBiju@uowdubai.ac.ae
+Dr. Obada Al Khatib Dr. Umar Asghar
+Discipline Leader (Electrical, Computer and Discipline Leader (Civil and Mechanical Engineering)
+Telecommunication Engineering) Assistant Professor
+Assistant Professor Faculty of Engineering and Information Sciences
+Faculty of Engineering and Information Sciences P +971 4 278 1940 (Direct)
+P +97 14 278 1979 (Direct) E UmarAsghar@uowdubai.ac.ae
+E ObadaAlKhatib@uowdubai.ac.ae
+Rahul Bijlani Maria Pereira
+Faculty Lead Administrator Faculty Coordinator - Operations
+Faculty of Engineering and Information Sciences Faculty of Engineering and Information Sciences
+P +971 4 278 1905 (Direct) P +971 4 278 1904 (Direct)
+E RahulBijlani@uowdubai.ac.ae E MariaPereira@uowdubai.ac.ae
+April Nunag Sabiha Banu
+Faculty Administrative Assistant Academic Support Officer (FEIS)
+Faculty of Engineering and Information Sciences FRED and Registry Services
+P +971 4 278 1990 (Direct) P +971 4 278 1739 (Direct)
+E AprilNunag@uowdubai.ac.ae E SabihaBanu@uowdubai.ac.ae
+BACHELOR OF COMPUTER SCIENCE
+Testamur Title of Degree: Bachelor of Computer Science
+Abbreviation: BCompSc
+Majors Cyber Security
+Game and Mobile Development
+Big Data
+UOWD Course Code: 3165
+Total Credit Points: 144 (plus additional GEC requirement subjects)
+Duration: 3 years (8 sessions) full time
+QF Emirates Level 7
+Home Faculty: Faculty of Engineering and Information Sciences
+Intake Session(s): Autumn/Spring/Winter
+Delivery Mode: On Campus (Face-to-face)
+Computer science is the study of algorithmic processes that describe and transform information: theory, analysis,
+programming and design. The Bachelor of Computer Science focuses on the development of high-level programming
+skills that can be applied across a wide range of applications, including analysis of stock market trends, games design,
+neural network design, automatic teller machines and patient monitoring in hospitals. The core subjects help students
+understand the structure of data and the role it plays in delivering solutions to complex problems. The degree includes
+core of programming subjects as well as electives in languages, artificial intelligence, computer security, computer
+graphics, operating systems, real-time software and software engineering. This program provides students with a
+strong core of computing and allows them to pursue their interest by choosing among many specialised electives or
+to major in areas such as Cyber Security, Game and Mobile Development, and Big Data.
+Degree Requirements
+To qualify for award of the degree of Bachelor of Computer Science,
+• An aggregate of at least 144cp which includes 90cp from the program core, a 12cp final-year project and 42cp
+of General Electives as specified in the table below.
+• Students need to choose 42cp of electives (7 subjects) if they are not opting for any major of study.
+• Students must complete 18cp (3 subjects) 300 level CSCI subjects and not more than 12cp (2 subjects) at 100
+level.
+• The completion of General Education Components as listed in the table.
+• an overall weighted average mark (WAM) of 50%.
+Learning Outcomes
+Upon successful completion of the Bachelor of Computer Science program, students will be able to:
+1. Apply theoretical basis of computer science to solve a range of practical problems
+2. Design and develop state of the art software solutions for a variety of applications.
+3. Design, develop, and employ effective and efficient approaches and algorithms in solving practical problems.
+4. Manage all aspects of the project including analyses of requirements, design of solutions, selection of
+appropriate tools for implementation, or integration.
+5. Acquire the ability to function effectively as part of a team to accomplish a set of common goals and
+objectives and efficiently communicate with project stakeholders.
+6. Adopt a professional and ethical approach to decision making and related social responsibilities.
+Degree Structure
+Subject Subject Name CP Pre- Subject Subject Name CP Pre-
+Code requisites Code requisites
+Year 1 Year 3
+CSIT111 Programming CSIT214
+6
+Fundamentals Software and 18cp at
+CSIT113 Problem Solving 6 CSIT314 Development 6 200 level
+CSIT114 System Analysis 6 Methodologies CSIT/ CSCI/
+CSIT115 Data Management CSIT111 ISIT
+6
+& Security 300-LEVEL Comp.
+Elective 4 6
+CSIT121 Object Oriented CSIT111 Science/IT
+Design & 6 300-LEVEL Comp.
+Elective 5 6
+Programming Science/IT
+Networks and Comp.
+CSIT127 6
+Communications Elective 6 Science/General 6
+Introduction to Web CSIT121 Schedule
+CSIT128 6
+Technology Comp.
+Mathematics for Elective 7 Science/General 6
+MATH221 6
+Computer Science Schedule
+Year 2
+Algorithms & Data Capstone
+CSCI203 6
+Structures CSIT214
+IT Project CSIT114 and 18cp,
+CSIT214 6
+Management CSIT321 Project 12 200 level
+Human Computer CSIT121 CSIT/CSCI/I
+CSIT226 6
+Interaction SIT
+CSIT115
+CSCI235 Database Systems 6 and General Education
+CSIT121 Muslim Societies
+ARTS317 6
+Advanced CSIT121 Across the Ages
+CSCI251 6
+Programming UAE and
+200/300-LEVEL IRAE135 / International
+Elective 1 6 6
+Comp. Science/IT GEOG222 Relations / Society
+200/300-LEVEL and Environment
+Elective 2 6
+Comp. Science/IT ARA 101/
+Arabic Language 6
+Comp. ARA 102
+Elective 3 Science/General 6
+Schedule
+BACHELOR OF COMPUTER SCIENCE (CYBER SECURITY)
+The Bachelor of Computer Science (Cyber Security) aims to prepare graduates to develop secure computers and
+computer networks, to ensure that the data stored and transmitted through them is protected from unauthorised
+access or to combat digital security threats and hazards. Moreover, with the advent of Internet of Things (IOT), both
+the public and private sectors are faced with new types of threats, new vulnerabilities, and hacking techniques and
+agents. IoT has hugely disrupted the traditional concept of digital security and introduced a more intricate concept:
+the concept of cybersecurity. There is a crucial need for talented cybersecurity professionals to address these issues.
+Skills derived from this major are in demand across all sectors: from banking to finance, insurance, retail, government
+and defence, all fields where there is sensitive data and information that is at risk of being hacked and breached via
+the internet.
+Learning Outcomes
+In addition to meeting the program learning outcomes of the Bachelor of Computer Science, students graduating from
+the Cyber Security major will further be able to:
+• Apply the core fundamentals of cyber security to real world situations.
+• Assess cyber security problems and vulnerabilities in software, computers, and networks and select
+appropriate security measures.
+Degree Structure
+Subject Subject Name CP Pre-requisites
+Code
+Year 1
+CSIT111 Programming Fundamentals 6
+CSIT113 Problem Solving 6
+CSIT114 System Analysis 6
+CSIT115 Data Management & Security 6 CSIT111
+CSIT121 Object Oriented Design & Programming 6 CSIT111
+CSIT127 Networks and Communications 6
+CSIT128 Introduction to Web Technology 6 CSIT121
+MATH221 Mathematics for Computer Science 6
+Year 2
+CSCI203 Algorithms & Data Structures 6
+CSIT214 IT Project Management 6 CSIT114
+CSIT226 Human Computer Interaction 6 CSIT121
+CSCI235 Database Systems 6 CSIT115 & CSIT121
+CSCI251 Advanced Programming 6 CSIT121
+CSCI262 System Security 6 CSIT111, CSIT115, CSIT127 & CSIT128
+CSCI301 Contemporary Topics in Security 6 CSCI251
+Elective 1 Comp. Science/General Schedule 6
+Year 3
+CSIT314 Software Development Methodologies 6 CSIT214 and 18cp @ 200 level CSIT/CSCI/ISIT
+CSIT302 Cybersecurity 6 CSIT127 & 12cp at 100-level of CSIT
+CSCI368 Network Security 6 CSCI251 & 12cp @ 200 level CSIT/CSCI
+CSCI369 Ethical Hacking 6 CSCI251 and 12cp 200 level CSCI
+Elective 2 Comp. Science/General Schedule 6
+Capstone
+CSIT321 Project 12 CSIT214 & 18cp, 200 level CSIT/CSCI/ISIT
+General Education
+ARTS317 Muslim Societies Across the Ages 6
+IRAE135/ GEOG222 UAE and International Relations / Society and Environment 6
+ARA 101/ ARA 102 Arabic Language 6
+BACHELOR OF COMPUTER SCIENCE (GAME AND MOBILE DEVELOPMENT)
+The Bachelor of Computer Science (Game and Mobile Development) aims to equip students with the necessary skills
+to apply techniques to the development of video games and related systems on computers and mobile platforms,
+including devices such as mobile phones, tablets and wearable devices. Students will be able to identify approaches
+to solving real-world problems in video games and multimedia systems. They will also develop both traditional
+computer science skills as well as creative skills including visualisation, interaction and communication skills. Experts
+in this field work in the entertainment industry, the game and mobile industry as mobile application developers, game
+programmers, animators, game engine developers, mobile entertainment and multimedia designers.
+Learning Outcomes
+In addition to meeting the program learning outcomes of the Bachelor of Computer Science, students graduating from
+the Multimedia and Game Development major will further be able to:
+1. Apply the core fundamentals of the principles of deign in animation, graphics, video, audio, web, and 2D/3D virtual
+worlds for designing games and mobile applications.
+2. Develop, assess and integrate a range of software tools for creative games and mobile technology development.
+Degree Structure
+Subject Subject Name CP Pre-requisites
+Code
+Year 1
+CSIT111 Programming Fundamentals 6
+CSIT113 Problem Solving 6
+CSIT114 System Analysis 6
+CSIT115 Data Management & Security 6 CSIT111
+CSIT121 Object Oriented Design & Programming 6 CSIT111
+CSIT127 Networks and Communications 6
+CSIT128 Introduction to Web Technology 6 CSIT121
+MATH221 Mathematics for Computer Science 6
+Year 2
+CSCI203 Algorithms & Data Structures 6
+CSIT214 IT Project Management 6 CSIT114
+CSIT226 Human Computer Interaction 6 CSIT121
+CSCI235 Database Systems 6 CSIT115 and CSIT121
+CSCI251 Advanced Programming 6 CSIT121
+Major 1* Select major subject from the list below 6
+Major 2* Select major subject from the list below 6
+Elective 1 Comp. Science/General Schedule 6
+Year 3
+CSIT314 Software Development Methodologies 6 CSIT214 and 18cp @ 200 level CSIT/CSCI/ISIT
+Major 3* Select major subject from the list below 6
+Major 4* Select major subject from the list below 6
+Major 5* Select major subject from the list below 6
+Elective 2 Comp. Science/General Schedule 6
+Capstone
+CSIT321 Project 12 CSIT214 and 18cp, 200 level CSIT/CSCI/ISIT
+*Plus 5 Major subjects (30cp) from the list below
+CSCI336 Interactive Computer Graphics 6 CSCI251 and 6cp of 200-level CSCI subjects
+CSCI346 Game Development 6 CSCI236
+CSCI356 Game Engine Essentials 6 CSIT121 and CSIT214
+CSIT242 Mobile Applications Development 6 CSIT121
+CSCI376 Multicore and GPU Programming 6 CSCI251 and 12cp @ 200 level CSIT/CSCI
+General Education
+ARTS317 Muslim Societies Across the Ages 6
+IRAE135 / GEOG222 UAE and International Relations / Society and Environment 6
+ARA 101/ ARA 102 Arabic Language 6
+BACHELOR OF COMPUTER SCIENCE (BIG DATA)
+The Bachelor of Computer Science (Big Data) aims to equip students with the necessary skills to apply techniques to
+the development of video games and related systems on computers and mobile platforms, including devices such as
+mobile phones, tablets and wearable devices. Students will be able to identify approaches to solving real-world
+problems in video games and multimedia systems. They will also develop both traditional computer science skills as
+well as creative skills including visualisation, interaction and communication skills. Experts in this field work in the
+entertainment industry, the game and mobile industry as mobile application developers, game programmers,
+animators, game engine developers, mobile entertainment and multimedia designers.
+Learning Outcomes
+In addition to meeting the program learning outcomes of the Bachelor of Computer Science, students graduating from
+the Multimedia and Game Development major will further be able to:
+1. Apply the core fundamentals of the principles of big data, visualization and data analytics in real life applications.
+2. Design and employ a range of algorithms, reports, and software tools for big data and data analytics.
+Degree Structure
+In addition to the Program Core and General Education subjects, students are required to complete the following 30
+cp (5 subjects) major core subjects and 12cp (2 subjects) from the list of electives.
+Subject Code Subject Name CP Pre-requisites
+Year 1
+CSIT111 Programming Fundamentals 6
+CSIT113 Problem Solving 6
+CSIT114 System Analysis 6
+CSIT115 Data Management & Security 6 CSIT111
+CSIT121 Object Oriented Design & Programming 6 CSIT111
+CSIT127 Networks and Communications 6
+CSIT128 Introduction to Web Technology 6 CSIT121
+MATH221 Mathematics for Computer Science 6
+Year 2
+CSCI203 Algorithms & Data Structures 6
+CSIT214 IT Project Management 6 CSIT114
+CSIT226 Human Computer Interaction 6 CSIT121
+CSCI235 Database Systems 6 CSIT115 and CSIT121
+CSCI251 Advanced Programming 6 CSIT121
+ISIT312 Big Data Management 6 CSIT115 and 24cp @ 100 level CSIT
+CSCI316 Big Data Mining Techniques and Implementation 6 CSCI203 and MATH221
+Elective 1 Comp. Science/General Schedule 6
+Year 3
+CSIT214 and 18 credit points at 200 level
+CSIT314 Software Development Methodologies 6
+CSIT/CSCI/ISIT
+CSCI317 Database Performance Tuning 6 CSCI235
+CSCI323 Modern Artificial Intelligence 6 CSCI251 + 1 subject at 200 level - CSCI / CSIT
+INFO411 Data Mining and Knowledge Discovery 6 36 cp
+Elective 2 Comp. Science/General Schedule 6
+Capstone
+CSIT214 and 18 credit points, 200 level
+CSIT321 Project 12
+CSIT/CSCI/ISIT
+General Education
+ARTS317 Muslim Societies Across the Ages 6
+IRAE135 / GEOG222 UAE and International Relations / Society and Environment 6
+ARA 101/ ARA 102 Arabic Language 6
+List of Electives
+Electives (18cp)
+Students need to choose 18cp (3 subjects) if they are not opting for any major of study
+CSCI236 3D Modelling and Animation 6 36 credit points at 100 level
+CSCI262 System Security 6 CSIT111, CSIT115, CSIT127 & CSIT128
+CSCI301 Contemporary Topics in Security 6 CSCI251
+Big Data Mining Techniques and CSCI203 and MATH221
+CSCI316 6
+Implementation
+CSCI317 Database Performance Tuning 6 CSCI235
+CSCI323 Artificial Intelligence 6 CSCI251 + 1 subject at 200 level - CSCI / CSIT
+CSCI336 Interactive Computer Graphics 6 CSCI251 and 6cp of 200-level CSCI subjects
+CSCI346 Game Development 6 CSCI236
+CSCI350 Internship 6
+CSIT121 and CSIT214
+CSCI356 Game Engine Fundamentals 6
+CSCI368 Network Security 6 CSCI251 & 12cp @ 200 level CSIT/CSCI
+CSCI369 Ethical Hacking 6 CSCI251 and 12cp 200 level CSCI
+CSCI370 Special Topics in Computer Science A 6 18 cp @ 200 level CSCI
+CSCI251 and 12cp @ 200 level CSIT/CSCI
+CSCI376 Multicore and GPU Programming 6
+CSIT242 Mobile Applications Development 6 CSIT121
+CSIT302 Cybersecurity 6 CSIT127 & 12cp at 100-level of CSIT
+INE 301 Innovation & Entrepreneurship 6
+INFO411 Data Mining and Knowledge Discovery 6 36 cp
+ISIT204 Principles of e-Business 6 24cp @100 level any subjects
+ISIT224 Management Information Systems 6 24cp @ 100 level of any subject
+ISIT301 Professional Practice & Ethics 6 18cp @200 level
+ISIT312 Big Data Management 6 CSIT115 and 24cp @ 100 level CSIT
+ACCY111 Accounting Fundamentals in Society 6
+ACCY112 Accounting in Organizations 6 ACCY111
+ECON100 Economic Essentials for Business 6
+MARK101 Marketing Principles 6
+MARK301 Digital Marketing 6 MARK101
+MARK343 International Marketing 6 MARK101
+MGNT110 Introduction to Management 6
+MGNT201 Organizational Behaviour 6 MGNT110
+MGNT206 Human Resource Management 6 MGNT110
+BACHELOR OF BUSINESS INFORMATION SYSTEMS
+Testamur Title of Degree: Bachelor of Business Information Systems
+Abbreviation: BBIS
+UOWD Course Code: 3164
+Total Credit Points: 144 (plus additional GEC requirement subjects)
+Duration: 3 Years (8 Sessions)
+QF Emirates Level 7
+Home Faculty: Faculty of Engineering and Information Sciences
+Intake Session(s): Autumn/Spring/Winter
+Delivery Mode: On Campus (Face-to-face)
+The Bachelor of Business Information Systems provides students with the knowledge and skills to apply appropriate
+technologies to achieve commercial advantage. The program teaches the methodologies and tools to harness
+information technology, from both strategic and operational perspectives, to create business efficiencies. It helps
+enhance analytical, problem solving, decision-making and critical thinking skills and helps to develop an understanding
+of key business concepts. The program offers graduates key skills required for any IT professional such as:
+organisational areas in IT, database management, programming, information systems analysis and design,
+communications and networks, security, eBusiness, project management, web-based technology, and professional
+practice in IT. Graduates of this program will be able to manage specifications, design and implement systems and
+select and apply appropriate technologies for the automation of business information.
+Degree Requirements
+To qualify for award of the degree of Bachelor of Business Information Systems, a candidate shall accrue an aggregate
+of at least 144 Credit Points (cp) which include 108cp of program core, 12cp of final year project and 24cp of General
+Electives. Students are also required to accrue an overall weighted average mark (WAM) of 50%.
+Students need to complete 24cp (4 subjects) of electives from which 18cp must be CSCI-300 or ISIT-300 level subjects.
+Students can enrol in 6cp subject from the list of electives in computer science or business schedule as long as they
+meet the pre-requisite requirement. Student may not enrol in any 100-level subject as elective. Students are also
+advised to consult with their academic advisor about their elective enrolment.
+Learning Outcomes
+Upon successful completion of the Bachelor of Business Information Systems program, students will be able to:
+1. Evaluate the strategic impact of information systems on organisational processes, profitability and decision-
+making effectiveness.
+2. Develop specifications, design and implement information systems.
+3. Manage the development and maintenance of business information systems.
+4. Select and apply appropriate technologies for the automation of business information systems.
+5. Acquire the ability to function effectively as part of a team to accomplish a set of common goals and
+objectives.
+6. Adopt a professional and ethical approach to decision making and related social responsibilities.
+7. Demonstrate an understanding of core knowledge of key business concepts.
+Degree Structure
+Subject Code Subject Name CP Pre-requisites
+Year 1
+CSIT111 Programming Fundamentals 6
+CSIT113 Problem Solving 6
+CSIT114 Systems Analysis 6
+CSIT115 Data Management and Security 6 CSIT111
+CSIT121 Object Oriented Design and Programming 6 CSIT111
+CSIT127 Networks and Communications 6
+CSIT128 Introduction to Web Technology 6 CSIT121
+MGNT110 Introduction to Management 6
+Year 2
+CSIT214 IT Project Management 6 CSIT114
+ISIT224 Management Information System 6 24cp @ 100 level of any subject
+ISIT204 Principles of eBusiness 6 24cp @100 level any subjects
+CSIT226 Human Computer Interaction 6 CSIT111 & CSIT 113
+ACCY111 Accounting Fundamentals in Society 6
+FIN 111 Introductory Business Finance 6
+MARK101 Marketing Principles 6
+MATH223 Mathematics for Information Technology 6
+Year 3
+CSIT314 Software Development Methodologies 6 CSIT214 and 18 credit points at 200
+level CSIT/CSCI/ISIT
+Elective 1 300-Level subject CSCI/CSIT 6
+Elective 2 300-Level subject CSCI/CSIT 6
+Elective 3 300-Level subject CSCI/CSIT 6
+Elective 4 Elective General 6
+Capstone
+CSIT321 Project 12 CSIT214 and 18 credit points, 200 level
+CSIT/CSCI/ISIT
+General Education
+ARTS317 Muslim Societies Across the Ages 6
+IRAE135 / GEOG222 UAE and International Relations / Society and Environment 6
+ARA 101/ARA 102 Arabic Language 6
+BACHELOR OF ENGINEERING (HONOURS)
+Testamur Title of Degree: Bachelor of Engineering (Honours)
+Abbreviation: BE
+Majors Computer Engineering
+Electrical Engineering
+Telecommunications Engineering
+UOWD Course Code: 3166
+Total Credit Points: 192 (plus additional GEC requirement subjects)
+Duration: 4 Years
+QF Emirates Level 7
+Home Faculty: Faculty of Engineering and Information Sciences
+Intake Session(s): Autumn/Spring/Winter
+Delivery Mode: On Campus (Face-to-face)
+The Bachelor of Engineering program with major in Computer Engineering, Electrical Engineering or
+Telecommunications Engineering trains engineers for exciting and successful careers as system designers and
+developers, engineering managers, analysts, educators and researchers. This program prepares graduates to be
+globally recognised professional engineers with the requisite knowledge, skills and attributes to further develop in
+their chosen careers. They will have the capacity to effectively lead and contribute to the advancement of engineering,
+technology and commerce. This program is designed to provide the basic theoretical background required by
+professional engineers as well as experience in working in teams and the ability to manage the process of designing
+and developing engineering solutions to address real world problems.
+Degree Requirements
+To qualify for award of the degree of Bachelor of Engineering in any of the specialisations, a candidate shall accrue an
+aggregate of at least 192 Credit Points (cp), which includes one general elective chosen from the general education
+subjects, in addition to two more general education subjects, for a total of 204 (cp). In addition, completes the
+professional experience subject ECTE399. Students are also required to accrue an overall weighted average mark
+(WAM) of 50%. This degree requirement is only applicable to students joining Autumn 2022 intake.
+Learning Outcomes
+Upon successful completion of the Bachelor of Engineering program, students will be able to:
+• Demonstrate the ability to discern, interpret and evaluate information, and apply their learning in order to
+make decisions and articulate logical responses.
+• Apply the acquired knowledge to practical problems and adopt a professional approach to decision making.
+• Use all forms of expression to clearly and confidently communicate knowledge to others, appropriate to the
+context.
+• Acquire the ability to function effectively as part of a team to accomplish a set of common goals and
+objectives.
+• Initiate research and projects, and apply problem solving and critical thinking strategies to solve problems.
+• Identify the strengths of individuals, societies and cultures that are both similar and dissimilar from one’s
+own, with a professional view to improving existing relationships between community networks, workplaces
+and organisations.
+• Demonstrate the ability to effectively gather, critically analyse, evaluate and interpret qualitative and
+quantitative information using computer technology.
+• Initiate and apply problem-solving and critical thinking strategies to research, projects and organisational
+problems, including ethical dilemmas and accept responsibility for the solutions delivered.
+• Demonstrate a sense of social commitment, responsibility and concern; feeling empowered to apply learning
+and show respect for citizens’ rights to everyday situations.
+ELECTRICAL ENGINEERING
+Subject Code Subject Name CP Pre-requisites
+Flexible First Year
+MATH141 Foundations of Engineering Mathematics 6
+MATH142 Essentials of Engineering Mathematics 6 MATH141
+ENGG100 Engineering Computing and Analysis 6
+ENGG102 Fundamentals of Engineering Mechanics 6
+ENGG103 Materials in Design 6
+ENGG104 Electrical Systems 6
+ENGG105 Engineering Design for Sustainability 6
+PHYS143 Physics for Engineers 6
+Year 2
+CSCI291 Programming for Engineers 6 ENGG100
+ECTE202 Circuits and Systems 6 ENGG104 and MATH142
+ECTE203 Digital Signal Processing 6 MATH142
+ECTE212 Electronics 6 ECTE202
+ECTE213 Engineering Electromagnetics 6 MATH142 and PHYS143
+ECTE233 Digital Hardware 6 ENGG100 OR ENGG104
+ECTE250 Engineering Design and Management 2 6 ECTE233 and ENGG100 and ENGG104
+MATH283 Advanced Engineering Mathematics and Statistics 6 MATH142
+Year 3
+ECTE323 Power Engineering 2 6 ECTE324 and MATH283
+ECTE324 Foundations in Electrical Energy Utilisation 6 ECTE202
+ECTE333 Microcontroller Architecture and Applications 6 ECTE233 and CSCI291
+ECTE344 Control Theory 6 ECTE 203
+ECTE351 Engineering Design and Management 3 12 ENGG104 and ECTE250 and CSCI291 and
+ECTE233
+ECTE363 Communication Systems 6 ECTE203 and MATH283
+ECTE364 Data Communications 6 ENGG100 OR (MATH141 AND ECTE233)
+ECTE399 Professional Experience 0
+Year 4
+ECTE498 Thesis A 12 Completion of 120cps
+Select 18cp (3 subjects) from the following:
+ECTE423 Power System Analysis 6 ECTE323 and MATH283
+ECTE433 Embedded Systems 6 ECTE333
+ECTE465 Wireless Communication Systems 6 MATH283
+ECTE412 Power Electronics and Drives 6 ECTE324 and MATH283
+ECTE426 Power Distribution Systems 6 ECTE324 and MATH283
+ECTE471 Robotics and Flexible Automation 6 MATH283
+Electives
+Elective 1 From list of Technical Electives List 6
+Elective 2 From list of Technical Electives List 6
+Elective 3 General Elective from list of General Education 6
+Subjects
+General Education
+All student should have completed the following subjects where one is considered as a general elective
+ARTS317 Muslim Societies Across the Ages 6
+IRAE135 / UAE and International Relations / Society and 6
+GEOG222 / Environment / Public Health
+PUBH115
+ARA 101 / Arabic Language 6
+ARA 102
+COMPUTER ENGINEERING
+Subject Code Subject Name CP Pre-requisites
+Flexible First Year
+MATH141 Foundations of Engineering Mathematics 6
+MATH142 Essentials of Engineering Mathematics 6 MATH141
+ENGG100 Engineering Computing and Analysis 6
+ENGG102 Fundamentals of Engineering Mechanics 6
+ENGG103 Materials in Design 6
+ENGG104 Electrical Systems 6
+ENGG105 Engineering Design for Sustainability 6
+PHYS143 Physics for Engineers 6
+Year 2
+CSCI291 Programming for Engineers 6 ENGG100
+ECTE202 Circuits and Systems 6 ENGG104 and MATH142
+ECTE203 Digital Signal Processing 6 MATH142
+ECTE212 Electronics 6 ECTE202
+ECTE213 Engineering Electromagnetics 6 MATH142 and PHYS143
+ECTE233 Digital Hardware 6 ENGG100 OR ENGG104
+ECTE250 Engineering Design and Management 2 6 ECTE233 and ENGG100 and ENGG104
+MATH283 Advanced Engineering Mathematics and Statistics 6 MATH142
+Year 3
+ECTE324 Foundations in Electrical Energy Utilisation 6 ECTE202
+ECTE331 Real-time Embedded Systems 6 ECTE233 and CSCI291
+ECTE333 Microcontroller Architecture and Applications 6 ECTE233 and ENGG100
+ECTE344 Control Theory 6 ECTE 203
+ECTE351 Engineering Design and Management 3 12 ENGG104 and ECTE250 and CSCI291 and
+ECTE233
+ECTE363 Communication Systems 6 ECTE203 and MATH283
+ECTE364 Data Communications 6 ENGG100 OR (MATH141 AND ECTE233)
+ECTE399 Professional Experience 0
+Year 4
+ECTE498 Thesis A 12 Completion of 120cps
+ECTE477 Programming Autonomous Systems 6 CSCI291
+Select 12cp (2 subjects) from the following:
+ECTE401 Multimedia Signal Processing 6 ECTE301
+ECTE433 Embedded Systems 6 ECTE333
+ECTE471 Robotics and Flexible Automation 6 MATH283
+Electives
+Elective 1 From list of Technical electives 6
+Elective 2 From list of Technical electives 6
+Elective 3 General Elective from list of General Education 6
+subjects
+General Education (All student should have completed the following subjects where one is considered as a general elective)
+ARTS317 Muslim Societies Across the Ages 6
+IRAE135 / UAE and International Relations / Society and Environment / 6
+GEOG222 Public Health
+/
+PUBH115
+ARA 101 / Arabic Language 6
+ARA 102
+TELECOMMUNICATIONS ENGINEERING
+Subject Subject Name CP Pre-requisites
+Code
+Year 1
+MATH141 Foundations of Engineering Mathematics 6
+MATH142 Essentials of Engineering Mathematics 6 MATH141
+ENGG100 Engineering Computing and Analysis 6
+ENGG102 Fundamentals of Engineering Mechanics 6
+ENGG103 Materials in Design 6
+ENGG104 Electrical Systems 6
+ENGG105 Engineering Design for Sustainability 6
+PHYS143 Physics for Engineers 6
+Year 2
+CSCI291 Programming for Engineers 6 ENGG100
+ECTE202 Circuits and Systems 6 ENGG104 and MATH142
+ECTE203 Digital Signal Processing 6 MATH142
+ECTE212 Electronics 6 ECTE202
+ECTE213 Engineering Electromagnetics 6 MATH142 and PHYS143
+ECTE233 Digital Hardware 6 ENGG100 OR ENGG104
+ECTE250 Engineering Design and Management 2 6 ECTE233 and ENGG100 and ENGG104
+MATH283 Advanced Engineering Mathematics and 6 MATH142
+Statistics
+Year 3
+ECTE324 Foundations in Electrical Energy Utilisation 6 ECTE202
+ECTE331 Real-time Embedded Systems 6 ECTE233 and CSCI291
+ECTE333 Microcontroller Architecture and Applications 6 ECTE233 and CSCI291
+ECTE344 Control Theory 6 ECTE203
+ECTE351 Engineering Design and Management 3 12 ENGG104 and ECTE250 and CSCI291 and
+ECTE233
+ECTE363 Communication Systems 6 ECTE203 and MATH283
+ECTE364 Data Communications 6 ENGG100 OR (MATH141 and ECTE233)
+ECTE399 Professional Experience 0
+Year 4
+ECTE498 Thesis A 12 Completion of 120cps
+ECTE469 Queuing Theory and Optimization 6 MATH283
+Select 12cp (2 subjects) from the following:
+ECTE401 Multimedia Signal Processing 6 ECTE301
+ECTE465 Wireless Communication Systems 6 MATH283
+ECTE482 Network Engineering 6 ECTE364
+Electives
+Elective 1 From list of Technical electives 6
+Elective 2 From list of Technical electives 6
+Elective 3 General Elective from list of General Education 6
+Subjects
+General Education (All student should have completed the following subjects which can be taken as general electives)
+ARTS317 Muslim Societies Across the Ages 6
+IRAE135 / GEOG222 UAE and International Relations / Society and 6
+/ PUBH115 Environment / Public Health
+ARA 101 / ARA 102 Arabic Language 6
+List of Technical Subjects
+Subject Credit Pre – requisite
+Subject Title
+Code points
+ECTE401 Multimedia Signal Processing 6 ECTE301
+ECTE412 Power Electronics and Drives 6 ECTE324 and MATH283
+ECTE423 Power System Analysis 6 ECTE323 and MATH283
+ECTE426 Power Distribution Systems 6 ECTE324 and MATH283
+ECTE433 Embedded Systems 6 ECTE333
+ECTE465 Wireless Communication Systems 6 MATH283
+ECTE469 Queuing Theory and Optimization 6 MATH283
+ECTE471 Robotics and Flexible Automation 6 MATH283
+ECTE474 Internet of Things 6 ECTE364 and CSCI291
+ECTE477 Programming Autonomous Systems 6 CSCI291
+INFO411 Data Mining and Knowledge Discovery 6 MATH283 and ECTE333
+BACHELOR OF ENGINEERING (HONOURS): CIVIL ENGINEERING
+Testamur Title of Degree: Bachelor of Engineering (Honours)
+Abbreviation: BE
+Specialisations Civil Engineering
+UOWD Course Code: 3166
+Total Credit Points: 192 (plus additional GEC requirement subjects)
+Duration: 4 Years
+QF Emirates Level 7
+Home Faculty: Faculty of Engineering and Information Sciences
+Intake Session(s): Autumn/Spring/Winter
+Delivery Mode: On Campus (Face-to-face)
+The Bachelor of Engineering program with major in Civil Engineering trains engineers for exciting and successful
+careers as professional engineers with the requisite knowledge, skills and attitudes to further develop in their chosen
+careers. They have the capacity to effectively lead and contribute to the advancement of engineering, technology and
+commerce. The programs have been designed to provide the theoretical background required for professional
+engineers as well as experience in working in teams and the ability to manage the process of designing and developing
+engineering solutions to address real world problems.
+Degree Requirements
+To qualify for award of the degree of Bachelor of Engineering in any of the specializations, a candidate shall accrue an
+aggregate of at least 192 Credit Points (cp), which includes two general electives chosen from the general education
+subjects, in addition to one more general education subjects, for a total of 198 (cp). In addition, completes the
+professional experience subject ENGG454. Students are also required to accrue an overall weighted average mark
+(WAM) of 50%. This degree requirement is only applicable to students joining Autumn 2022 intake.
+Learning Outcomes
+Upon successful completion of the major in Civil Engineering, graduates of this major will be able to:
+1. Demonstrate a comprehensive knowledge and understanding of the engineering principles underpinning
+structures, water engineering, construction materials, geotechnics, and surveying within the context of
+construction and detailed and conceptual multi-disciplinary design.
+2. Identify, and predict the behaviour of building materials and utilise them appropriately and cost-effectively in
+construction.
+3. Utilise sophisticated engineering analysis, software and design tools to simulate the real-world including
+computer aided design and modelling of engineering systems.
+4. Apply fundamental concepts to estimate loadings, survey site conditions, and assess reliability in the design
+and performance of structures that comply with stipulated codes and standards.
+5. Plan construction projects, taking into account environmental impact, and availability of building materials,
+machinery, and labour.
+6. Evaluate the engineering properties of soils and rocks, and employ suitable ground management techniques
+to establish stable conditions for infrastructure and to mitigate natural hazards.
+Degree Structure
+Subject Code Subject Name CP Pre-requisites
+Flexible First Year
+ENGG100 Engineering Computing and Analysis 6
+ENGG102 Fundamentals of Engineering Mechanics 6 MATH141
+ENGG103 Materials in Design 6
+ENGG104 Electrical Systems 6
+ENGG105 Engineering Design for Sustainability 6
+MATH141 Foundations of Engineering Mathematics 6
+MATH142 Essentials of Engineering Mathematics 6
+PHYS143 Physics for Engineers 6
+Year 2
+CHEM103 Introductory Chemistry for Engineers 6
+CIVL201 Computer Modelling for Civil Engineering 6 ENGG102
+CIVL245 Construction Materials 6
+CIVL272 Surveying 6
+EESC252 Geology for Engineers 1 6
+ENGG251 Mechanics of Solids 6 ENGG102
+ENGG252 Engineering Fluid Mechanics 6 MATH142
+MATH283 Advanced Engineering Mathematics and Statistics 6 MATH142
+Year 3
+CIVL311 Structural Design 1 6
+CIVL314 Structural Design 2 6 CIVL311
+CIVL322 Hydraulics and Hydrology 6 ENGG252
+CIVL352 Structures 1 6 ENGG251
+CIVL361 Geo-mechanics 6
+CIVL394 Construction 6
+Elective 1 Technical Elective 1 6
+Elective 2 General Elective 1 6
+Year 4
+CIVL444 Engineering Design 6 CIVL361, CIVL311 and CIVL322
+CIVL458 Construction Management 6
+CIVL462 Principles of Foundation Engineering 6 CIVL361
+Completion of 120cps, with a
+ENGG452 Thesis A 12 weighted average mark of 65 or
+above
+ENGG454 Professional Experience 0
+ENGG461 Managing Engineering Projects 6 Completed at least 96cp
+Elective 3 Technical Elective 2 6
+Elective 4 General Elective 2 6
+Technical Electives (12cp)
+CIVL463 Applied Geotechnical Engineering 6
+CIVL454 Structures 2 6
+CIVL489 Sustainable Road and Transport Engineering 6
+CIVL491 Applied Finite Element Analysis for Civil Engineers 6
+Civil Engineering Students are required to complete two technical electives (Technical Elective 1 and Technical Elective 2) and
+two general electives (General Elective 1 and General Elective 2) from faculty list of approved electives.
+General Education (All student should have completed the following subjects which can be taken as general electives)
+ARTS317 Muslim Societies Across the Ages 6
+IRAE135/ UAE and International Relations / Society and Environment 6
+GEOG222
+ARA 101 / Arabic Language 6
+ARA 102
+BACHELOR OF ENGINEERING (HONOURS): MECHANICAL
+Testamur Title of Degree: Bachelor of Engineering (Honours)
+Abbreviation: BE
+Specialisations Mechanical Engineering
+UOWD Course Code: 3166
+Total Credit Points: 192 (plus additional GEC requirement subjects)
+Duration: 4 Years
+QF Emirates Level 7
+Home Faculty: Faculty of Engineering and Information Sciences
+Intake Session(s): Autumn/Spring/Winter
+Delivery Mode: On Campus (Face-to-face)
+Mechanical Engineering has the broadest scope of all the branches of engineering, and graduates in this field have the core
+skills to adapt to other fields of engineering if they wish to do so. Our BEng (Hons) - Mechanical Engineering program is
+designed to provide the educational requirements which lead to professional mechanical engineers. The courses develop
+discipline-specific knowledge and understanding through the teaching of the core mechanical engineering subjects;
+engineering maths and computation, mechanics of materials, mechanics of machines, dynamics and vibrations, materials
+science and manufacturing, thermodynamics, fluid mechanics, CAD and engineering design
+Degree Requirements
+To qualify for award of the degree of Bachelor of Engineering in any of the specializations, a candidate shall accrue an
+aggregate of at least 192 Credit Points (cp), which includes two general electives chosen from the general education
+subjects, in addition to one more general education subjects, for a total of 198 (cp). In addition, completes the professional
+experience subject ENGG454 and the mechanical engineering workshop subject. Students are also required to accrue an
+overall weighted average mark (WAM) of 50%. This degree requirement is only applicable to students joining Autumn
+2022intake.
+Learning Outcomes
+Upon successful completion of the major in Mechanical Engineering, graduates will be able to:
+ Demonstrate a comprehensive knowledge and understanding of the engineering principles underpinning machines,
+structures, process, systems, fluid dynamics, engineering materials, and detailed and conceptual multi-disciplinary
+design.
+ Utilise sophisticated engineering analysis, software and design tools to simulate the real-world including computer
+aided design and modelling of engineering systems.
+ Solve problems creatively by designing and managing the production of new and improved machines, systems and
+processes.
+ Design, optimise and maintain machines, systems, and processes such as vehicles and engines; conventional and
+renewable energy production systems; manufacturing plant and machinery; bulk materials handling systems;
+building services, refrigeration and air conditioning systems; rail, road and aerospace systems.
+ Measure and control the performance of machines and systems in the real-world using sensors and transducers,
+data acquisition systems, test facilities, and lab experimentation.
+ Carry out innovative, conceptual and detailed design of systems and components by establishing key aspects of the
+problem, researching current knowledge, problem-solving, generating options and identifying feasible/optimal
+solutions.
+Degree Structure
+Subject Subject Name CP Pre-requisite
+Code
+Year 1
+ENGG100 Engineering Computing and Analysis 6
+ENGG102 Fundamentals of Engineering Mechanics 6 MATH141
+ENGG103 Materials in Design 6
+ENGG104 Electrical Systems 6
+ENGG105 Engineering Design for Sustainability 6
+MATH141 Foundations of Engineering Mathematics 6
+MATH142 Essentials of Engineering Mathematics 6
+PHYS143 Physics for Engineers 6
+Year 2
+CHEM103 Introductory Chemistry for Engineers 6
+MECH201 Engineering Analysis 6 MATH142
+MECH203 Mechanical Workshop Practice 0
+MECH215 Mechanical Engineering Design 1 6 MECH203
+MECH226 Machine Dynamics 6 ENGG102 and MATH142
+MECH252 Thermodynamics, Experimental Methods and Analysis 6
+ENGG251 Mechanics of Solids 6 ENGG102
+ENGG252 Engineering Fluid Mechanics 6 MATH142
+MATH283 Advanced Engineering Mathematics and Statistics 6 MATH142
+Year 3
+ENGG378 Sustainable Energy Technologies 6
+MECH311 Mechanical Engineering Design 2 6 MECH215
+MECH321 Dynamics of Engineering Systems 6
+MECH326 Dynamics of Mechanisms 6 MECH226
+MECH341 Thermodynamics of Engineering Systems 6 MECH252
+MECH343 Heat Transfer & Aerodynamics 6 ENGG252
+MECH365 Control of Machines and Processes 6 MECH321
+MECH382 Manufacturing Engineering Principles 6 ENGG103
+Year 4
+ENGG452 Thesis A 12 Completion of 120cps, with a weighted average
+mark of 65 or above
+ENGG454 Professional Experience 0
+ENGG461 Managing Engineering Projects 6 Completed at least 96 credit points
+MECH419 Finite Element Methods in Engineering 6 ENGG251 and MECH201
+Electives (24cp)
+Mechanical Engineering Students are required to complete two technical electives (Technical Elective 1 and Technical Elective 2) and
+two general electives (General Elective 1 and General Elective 2) from faculty list of approved electives.
+Elective 1 Technical Elective 1 6
+Elective 2 Technical Elective 2 6
+Elective 3 Selected General Education Elective 1 6
+Elective 4 Selected General Education Elective 2 6
+Technical Electives (12cp)
+CIVL311 Structural Design 1 6
+ECTE471 Robotics and Flexible Automation 6 MATH283
+MECH431 Computational Fluid Dynamics 6
+MECH474 Reliability Engineering 6
+MECH482 Special Topics in Mechanical Engineering 2 6
+MECH489 Engineering Asset Management 6
+General Education (All student should have completed the following subjects which can be taken as general electives)
+ARTS317 Muslim Societies Across the Ages 6
+IRAE135/ GEOG222 UAE and International Relations / Society and 6
+Environment
+ARA 101 / ARA 102 Arabic Language 6
+BACHELOR OF ENGINEERING (HONOURS): MECHATRONIC
+Testamur Title of Degree: Bachelor of Engineering (Honours)
+Abbreviation: BE
+Specialisations Mechatronic Engineering
+UOWD Course Code: 3166
+Total Credit Points: 192 (plus additional GEC requirement subjects)
+Duration: 4 Years
+QF Emirates Level 7
+Home Faculty: Faculty of Engineering and Information Sciences
+Intake Session(s): Autumn/Spring/Winter
+Delivery Mode: On Campus (Face-to-face)
+Mechatronics, as a multidisciplinary engineering discipline, develops the skill sets demanded for in areas such as Industry
+4.0 systems, Internet of Things, Robotic Systems, drones, Autonomous Vehicles, Assistive technologies, Medical Appliances
+and Robots. It focuses on mechanical, electrical and electronic, computer engineering systems, and their interdisciplinary
+combination in order to create smarter systems of great use to us. Industrial robots are a famous example of mechatronic
+engineering: computer-controlled mechanical arms capable of performing manual labour with greater strength, speed and
+efficiency than a human. The reality is computer control of systems is so commonplace in homes, business and industry
+that nearly everyone uses a mechatronic system every day, from washing machines to central air-conditioning, cameras
+and computer printers.
+In the Bachelor of Engineering (Honours) – Mechatronic Engineering Degree you will study key areas and develop skills in
+Mechanical Engineering, Electrical Engineering, Computer Engineering, software and hardware design in order to be able
+to design, develop and manage complex mechatronic systems. The course provides essential foundations for dealing with
+devices such as Sensors, Actuators, Control Systems, Embedded Systems, Robotics, Industrial hydraulics and Pneumatics,
+Industrial Automation, Programmable Logic Controllers (PLC), Microcontrollers, Cyber-Physical Systems, 3D Printing, and
+Integrated Technologies such as AI and IoT.
+Degree Requirements
+To qualify for award of the degree of Bachelor of Engineering in any of the specializations, a candidate shall accrue an
+aggregate of at least 192 Credit Points (cp), which includes two general electives chosen from the general education
+subjects, in addition to one more general education subjects, for a total of 198 (cp). In addition, completes the professional
+experience subject ENGG454 and the mechanical engineering workshop subject. Students are also required to accrue an
+overall weighted average mark (WAM) of 50%. This degree requirement is only applicable to students joining Autumn
+2022intake.
+Learning Outcomes
+Upon successful completion of the major in Mechatronic Engineering, graduates will be able to:
+• Demonstrates the ability to discern, interpret and evaluate disciplinary literature independently, to support an argument or
+strategy.
+• Apply Engineering knowledge & Skills to practical problems and adopt a professional approach to decision making.
+• Communicate clearly and coherently in writing to a range of audiences, with an ability to integrate knowledge, research,
+data, analysis and critical evaluation.
+• Communicate verbally to a range of audiences using appropriate language in presentations, consultation and negotiation
+• Work productively as part of a team with the capacity for leadership, recognizing the roles, responsibilities and
+accountabilities of team members.
+• Initiate research and projects, and apply problem solving and critical thinking strategies to develop innovative solutions to
+complex engineering problems.
+• Show respect for the views, values and culture of others in settings involving a range of stakeholders and consider alternate
+perspectives in design and project management
+• Appreciate the importance of sustainable engineering design, and seek to maximize positive social and environmental
+outcomes in engineering design, practice and development
+Degree Structure
+Subject Subject Name CP Pre-requisite
+Code
+Year 1
+ENGG100 Engineering Computing and Analysis 6
+ENGG102 Fundamentals of Engineering Mechanics 6
+ENGG103 Materials in Design 6
+ENGG104 Electrical Systems 6
+ENGG105 Engineering Design for Sustainability 6
+MATH141 Foundations of Engineering Mathematics 6
+MATH142 Essentials of Engineering Mathematics 6 MATH141
+PHYS143 Physics for Engineers 6
+Year 2
+CSCI291 Programming for Engineers 6 ENGG100
+ECTE203 Signals and Systems 6 MATH142
+ECTE233 Digital Hardware 6 ENGG100 OR ENGG104
+ENGG251 Mechanics of Solids 6 ENGG102
+MATH283 Advanced Engineering Mathematics and Statistics 6 MATH142
+MECH203 Mechanical Workshop Practice 0
+MECH215 Mechanical Engineering Design 1 6 MECH203
+MECH226 Machine Dynamics 6 ENGG102 and MATH142
+MECH252 Thermodynamics, Experimental Methods and Analysis 6
+Year 3
+ECTE202 Circuits and Systems 6 ENGG104 and MATH142
+ECTE212 Electronics 6 ECTE202
+ECTE333 Microcontroller Architecture and Applications 6 ECTE233 and CSCI291
+ECTE344 Control Theory 6 ECTE203
+ECTE351 Engineering Design and Management 3 12 ENGG104 and ECTE250 and CSCI291 and ECTE233
+ENGG252 Engineering Fluid Mechanics 6 MATH142
+MECH311 Mechanical Engineering Design 2 6 MECH215
+MECH382 Manufacturing Engineering Principles 6 ENGG103
+Year 4
+ECTE333 Microcontroller Architecture and Applications 6 ECTE233 and CSCI291
+ECTE471 Robotics and Flexible Automation 6 MATH283
+ECTE498 Thesis A 12 Completion of 120 cps
+ENGG454 Professional Experience 0
+ENGG461 Managing Engineering Projects 6 Completed at least 96 credit points
+MECH470 Applied topics in Mechatronics 6 MECH203
+Technical Elective 6
+General Elective 6
+Technical Electives (6 cp)
+ECTE363 Communication Systems 6 ECTE203 and MATH283
+ECTE401 Multimedia Signal Processing 6 ECTE203
+ECTE433 Embedded Systems 6 ECTE333
+ECTE465 Wireless Communication Systems 6 MATH283
+ECTE474 Internet of Things 6 ECTE364 and CSCI291
+ECTE477 Programming Autonomous Systems 6 CSCI291
+General Education (All student should have completed the following subjects which can be taken as general electives)
+ARTS317 Muslim Societies Across the Ages 6
+IRAE135/ GEOG222 UAE and International Relations / Society and 6
+Environment
+ARA 101 / ARA 102 Arabic Language 6
+CLASSIFICATION OF HONOURS DEGREE FOR ENGINEERING PROGRAMS
+WAM Range Classification Awarded
+77.5%-100% Class I
+72.5%-77.5% Class II, Division 1
+67.5%-72.5% Class II, Division 2
+62.5%-67.5% Class III
+50% - 62.5% Honours with no classification
