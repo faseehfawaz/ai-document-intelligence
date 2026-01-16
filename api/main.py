@@ -1,3 +1,7 @@
+from mlops.logging.logger import get_logger
+
+logger = get_logger("api")
+
 from fastapi import FastAPI
 import os
 from ingestion.azure_blob_loader import download_pdfs
@@ -46,3 +50,29 @@ def ask(question: str):
         "question": question,
         "answers": results
     }
+
+@app.post("/ingest")
+def ingest():
+    logger.info("Starting ingestion pipeline")
+    ...
+    logger.info(f"Ingested {len(documents)} documents")
+
+@app.get("/ask")
+def ask(question: str):
+    logger.info(f"Received query: {question}")
+    results = search(question)
+    return {"question": question, "answers": results}
+
+@app.get("/health")
+def health():
+    return {"status": "ok"}
+
+@app.on_event("startup")
+async def startup_event():
+    logger.info("API started successfully")
+
+
+@app.get("/health")
+def health():
+    logger.info("Health check hit")
+    return {"status": "ok"}
