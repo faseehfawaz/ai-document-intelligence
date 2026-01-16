@@ -3,3 +3,4 @@ venv/
 .env
 *.key
 *.pem
+data/processed_text/
